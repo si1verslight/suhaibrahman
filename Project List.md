@@ -93,5 +93,3 @@ The IT support desk is responsible for a wide range of tasks to ensure the smoot
 - Conducting proactive system monitoring and analysis to identify potential issues or performance bottlenecks.
 - Implementing preventive measures, such as system optimizations and security enhancements, to minimize future disruptions.
 - Staying up-to-date with emerging technologies, industry trends, and best practices in IT support.
-
-These day-to-day responsibilities are vital for ensuring the efficient functioning of the IT support desk and providing high-quality support services to end-users.
